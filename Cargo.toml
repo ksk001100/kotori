@@ -7,7 +7,7 @@ keywords = []
 categories = ["api-bindings"]
 repository = "https://github.com/ksk001100/seahorse"
 readme = "README.md"
-license-file = "MIT"
+license-file = "LISENCE"
 documentation = "https://docs.rs/kotori/"
 description = "Twitter API wrapper written in Rust"
 
